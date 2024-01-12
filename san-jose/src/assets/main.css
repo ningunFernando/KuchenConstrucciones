@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary: #60713a;
+    --biege: #fafbed;
+    --secondary: #b4c775;
+    --accents: #e0c389;
+}
